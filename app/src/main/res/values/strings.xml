@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewModelBMI</string>
+    <string name="result">"BMI is %.1f"</string>
+    <string name="v1">Height</string>
+    <string name="v2">Weight</string>
+    <string name="title">BMI calculator</string>
+</resources>
